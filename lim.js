@@ -22,10 +22,10 @@ let person = {
 };
 console.log("Person Object:", person);
 
-let colors = ["red", "blue", "green", "yellow", "green"];
+let colors = ["red", "blue", "black", "white", "black"];
 console.log("Colors:", colors);
 
-let words = ["apple", "banana", "orange", "grape"];
+let words = ["apple", "banana", "orange", "pineapple"];
 let transformedWords = [];
 
 for (let i = 0; i < words.length; i++) {
